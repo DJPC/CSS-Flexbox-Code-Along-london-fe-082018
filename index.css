@@ -35,6 +35,7 @@ main {
   width:100px;
   height:100px;
   flex-flow: wrap;
+  justify-content: center;
 }
 
 .item {
