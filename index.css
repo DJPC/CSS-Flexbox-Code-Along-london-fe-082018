@@ -34,7 +34,7 @@ main {
   background-color: white;
   width:100px;
   height:100px;
-  flex-flow: column wrap;
+  flex-flow: wrap;
 }
 
 .item {
